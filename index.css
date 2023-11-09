@@ -41,8 +41,9 @@ p{
     -webkit-user-select: none;
     user-select: none;
 }
-video{
+iframe{
     width: 100vw;
+    height: 35vh;
     position: fixed;
     left: 0vw;
     bottom: 10vh;
